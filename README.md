@@ -3,7 +3,7 @@
 
 <h3 align="left">☁️ About Me</h3>
 <ul align="left" style="margin-left: 10px">
-  <li>🚀 Cloud consultant &amp; architect specializing in multi-cloud cost optimization and security design, currently delivering <strong>$50K+/month</strong> in recurring savings and a <strong>75% reduction</strong> in vulnerability exposure across 300–500+ hybrid servers as an <strong>Associate Cloud Consultant</strong> at Brennan.</li>
+  <li>🚀 Cloud &amp; Platform Engineer with <strong>6.5+ years</strong> of hands-on IT infrastructure experience, specializing in multi-cloud (Azure/AWS) architecture, FinOps, and DevOps automation. As a <strong>Cloud Consultant</strong> at Brennan, I deliver <strong>$50K+/month</strong> in recurring savings and a <strong>75% reduction</strong> in vulnerability exposure across 300–500+ hybrid servers.</li>
   <li>🎓 <strong>Master's in Cloud Architecture &amp; Security</strong></li>
   <li>🏆 AWS Certified Solutions Architect – Associate &amp; Microsoft Certified Azure Administrator Associate, plus additional AWS and Azure certifications.</li>
   <li>🛠️ Focused on FinOps, Well-Architected/Cloud Adoption Framework governance, Zero-Trust security architecture, and DevOps automation.</li>
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aakif-shaikh-ascloudx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="http://ascloudx.com/" target="_blank"><img src="https://img.shields.io/badge/ascloudx.com-FF6B35?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIj48L2NpcmNsZT48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiI+PC9saW5lPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiI+PC9wYXRoPjwvc3ZnPg==" alt="Portfolio" /></a>
+<a href="https://akcloudx.github.io" target="_blank"><img src="https://img.shields.io/badge/akcloudx.github.io-FF6B35?style=for-the-badge&logoColor=white&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIj48L2NpcmNsZT48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiI+PC9saW5lPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiI+PC9wYXRoPjwvc3ZnPg==" alt="Portfolio" /></a>
 </p>
 
 <h3 align="left">🔧 Tools & Technologies:</h3>
@@ -63,9 +63,10 @@
 ![CAF](https://img.shields.io/badge/Cloud%20Adoption%20Framework-2D2D2D?style=for-the-badge&logoColor=white)
 ![FinOps](https://img.shields.io/badge/FinOps-2D2D2D?style=for-the-badge&logoColor=white)
 ![ITIL v4](https://img.shields.io/badge/ITIL%20v4-2D2D2D?style=for-the-badge&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 <h3 align="left">🚩 Featured Project</h3>
 <p align="left">
-<strong><a href="https://github.com/akcloudx/Multi-Cloud-FinOps-Optimization-System" target="_blank">Multi-Cloud FinOps Optimization System</a></strong> — MSc capstone project unifying Azure &amp; AWS cost/inventory into one live platform using 9 KQL query groups, 14+ AWS resource types, and hourly automated sync. Includes a Reservation/Savings Plan coverage matcher and a VM/EC2 rightsizing engine with zero standing credentials (Managed Identity + read-only IAM).
+<strong><a href="https://github.com/akcloudx/Multi-Cloud-FinOps-Optimization-System" target="_blank">Multi-Cloud FinOps Optimization System</a></strong> — MSc capstone project unifying Azure &amp; AWS cost/inventory into one live, multi-tenant platform (Python, Streamlit, Azure SQL, Azure Functions) using 9 KQL query groups, 14+ AWS resource types, and hourly automated sync. Includes a Reservation/Savings Plan coverage matcher and a VM/EC2 rightsizing engine, with zero standing credentials (Managed Identity + read-only IAM).
 </p>
